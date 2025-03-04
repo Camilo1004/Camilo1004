@@ -1,0 +1,8 @@
+[MASTER]
+load-plugins=pylint.extensions.docstyle
+
+[FORMAT]
+max-line-length=80
+
+[pylint.extensions.docstyle]
+docstring-convention=google
