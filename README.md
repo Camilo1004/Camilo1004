@@ -8,9 +8,18 @@
 
 <p align="left">🪪 I'm Camilo Montero Moya from Costa Rica.<br><br>📚 I'm currently studying at Universidad de Costa Rica.<br><br>📄 Bachelor's degree in Computer Science (Expected Graduation: 2026)<br><br>🎯 Goals: To become a proficient AI and Data Scientist and keep exploring new technologies.</p>
 
+<p align="left">
+  <a href="mailto:camilomonte1004@gmail.com?subject=Hello%20Camilo%20(v%C3%ADa%20GitHub)&body=Hello%20Camilo,%0A%0AI%20saw%20your%20profile%20in%20GitHub%20"
+     style="text-decoration:none; display:inline-block; margin: 0 8px;">
+    <img alt="Email me" src="https://custom-icon-badges.demolab.com/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=B23121"/></a>
+  <a href="https://www.linkedin.com/in/camilo-montero/" target="_blank"style="text-decoration:none; display:inline-block; margin: 0 8px;">
+    <img alt="LinkedIn" 
+         src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=094F99"/></a>
+</p>
+
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
