@@ -6,10 +6,10 @@
 
 ###
 
-<p align="left">🪪 I'm Camilo Montero Moya from Costa Rica.<br><br>📚 I'm currently studying at Universidad de Costa Rica.<br><br>📄 Bachelor's degree in Computer Science (Expected Graduation: 2026)<br><br>🎯 Goals: To become a proficient AI and Data Scientist and keep exploring new technologies.</p>
+<p align="left">🪪 I'm Camilo Montero Moya from Costa Rica.<br><br>📚 I'm currently studying at Universidad Fidélitas.<br><br>📄 Bachelor's degree in Computer Science (Expected Graduation: 2026)<br><br>🎯 Goals: To become a proficient AI and Data Scientist and keep exploring new technologies.</p>
 
 <p align="left">
-  <a href="mailto:camilomonte1004@gmail.com?subject=Hello%20Camilo%20(v%C3%ADa%20GitHub)&body=Hello%20Camilo,%0A%0AI%20saw%20your%20profile%20in%20GitHub%20"
+  <a href="mailto:camilomonte1004@gmail.com?subject=Hello%20Camilo%20(From%20GitHub)&body=Hello%20Camilo,%0A%0AI%20saw%20your%20profile%20in%20GitHub%20"
      style="text-decoration:none; display:inline-block; margin: 0 8px;">
     <img alt="Email me" src="https://custom-icon-badges.demolab.com/badge/EMAIL%20ME-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=B23121"/></a>
   <a href="https://www.linkedin.com/in/camilo-montero/" target="_blank"style="text-decoration:none; display:inline-block; margin: 0 8px;">
@@ -74,20 +74,3 @@
 ###
 
 <p align="left">• Personal projects<br>• University projects<br>• Online exercises</p>
-
-###
-
-<h2 align="left">Contact me!</h2>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/camilo-montero-moya-055750304" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="camilomonte1004@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
