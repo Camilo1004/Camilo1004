@@ -9,7 +9,7 @@
 <p align="left">🪪 I'm Camilo Montero Moya from Costa Rica.<br>
   <br>🖥️ I'm currently working at Grupo Bimbo as Automation Engineer.<br>
   <br>📚 I'm currently studying at Universidad Fidélitas.<br>
-  <br>📄 Bachelor's degree in Computer Science (Expected Graduation: 2026)<br>
+  <br>📄 Bachelor's degree in Computer Science (Expected Graduation: 2027)<br>
   <br>🎯 Goals: To become a proficient AI and Machine Learning.</p>
 
 <p align="left">
